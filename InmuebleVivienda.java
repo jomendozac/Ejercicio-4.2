@@ -1,6 +1,6 @@
 package Inmuebles;
 
-public class Inmueble_vivienda extends Inmueble {
+public class InmuebleVivienda extends Inmueble {
 
     protected int numeroHabitaciones;
     protected int numeroBaños;
